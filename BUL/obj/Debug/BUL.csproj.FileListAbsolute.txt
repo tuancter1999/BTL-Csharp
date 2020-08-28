@@ -1,0 +1,16 @@
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.Properties.Resources.resources
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.csproj.GenerateResource.cache
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.csprojAssemblyReference.cache
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\BUL.exe.config
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\BUL.exe
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\BUL.pdb
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DAL.exe
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DAL.pdb
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DAL.exe.config
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.csproj.CopyComplete
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.exe
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\obj\Debug\BUL.pdb
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DTO.exe
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DTO.pdb
+C:\Users\HL94NVT\source\repos\QLNhanSu\BUL\bin\Debug\DTO.exe.config
